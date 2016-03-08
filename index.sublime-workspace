@@ -1,0 +1,329 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"inline",
+				"inline"
+			],
+			[
+				"dis",
+				"displayOnlineCourses"
+			],
+			[
+				"display",
+				"displaySchools"
+			],
+			[
+				"description",
+				"description"
+			],
+			[
+				"work",
+				"workExperience"
+			],
+			[
+				"formatt",
+				"formattedContact"
+			],
+			[
+				"formatted",
+				"formattedName"
+			],
+			[
+				"arr",
+				"arr"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"user",
+				"userAge"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"fun",
+				"funThoughts"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"main",
+				"Main"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"f",
+				"font-style"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Miguel/Downloads/frontend-nanodegree-resume-master/frontend-nanodegree-resume-master/index.html",
+		"/C/Users/Miguel/Downloads/frontend-nanodegree-resume-master/frontend-nanodegree-resume-master/css/style.css",
+		"/C/Users/Miguel/Downloads/frontend-nanodegree-resume-master/frontend-nanodegree-resume-master/js/helper.js",
+		"/C/Users/Miguel/Downloads/frontend-nanodegree-resume-master/frontend-nanodegree-resume-master/js/resumeBuilder.js",
+		"/C/Users/Miguel/Downloads/frontend-nanodegree-resume-master/frontend-nanodegree-resume-master/js/smoothscroll.js",
+		"/C/Users/Miguel/Desktop/Udemy/Web Developer Bootcamp/HTML Bootcamp/JS/JS Demo/script.js",
+		"/C/Users/Miguel/Desktop/Udemy/Web Developer Bootcamp/HTML Bootcamp/JS/JS Demo/index.html",
+		"/C/Users/Miguel/Desktop/Udemy/Web Developer Bootcamp/HTML Bootcamp/Bootstrap/New folder/css.css",
+		"/C/Users/Miguel/Desktop/Udemy/Web Developer Bootcamp/HTML Bootcamp/Bootstrap/New folder/index.html",
+		"/C/Users/Miguel/Desktop/Udemy/Web Developer Bootcamp/HTML Bootcamp/Bootstrap/css.css",
+		"/C/Users/Miguel/Desktop/Udemy/Web Developer Bootcamp/HTML Bootcamp/Bootstrap/index.html",
+		"/C/Users/Miguel/Desktop/Udemy/HTML developer/CSS/style.css",
+		"/C/Users/Miguel/Desktop/Udemy/HTML developer/CSS/index.html",
+		"/C/Users/Miguel/Desktop/Udemy/Web Developer Bootcamp/HTML Bootcamp/Intermediate CSS/styles.css",
+		"/C/Users/Miguel/Desktop/Udemy/Web Developer Bootcamp/HTML Bootcamp/Intermediate CSS/fonts.html",
+		"/C/Users/Miguel/Desktop/Portfolio/FEWD/Project 1/css/media.css",
+		"/C/Users/Miguel/Desktop/Portfolio/FEWD/Project 1/css/style.css",
+		"/C/Users/Miguel/Desktop/Portfolio/FEWD/Project 0/styles.css",
+		"/C/Users/Miguel/Desktop/Portfolio/FEWD/Project 0/index.html",
+		"/C/Users/Miguel/Downloads/09selectorexercisestarter/09_Selector_Exercise_Starter/selectors.css",
+		"/C/Users/Miguel/Downloads/09selectorexercisestarter/09_Selector_Exercise_Starter/selectorsExercise.html",
+		"/C/Users/Miguel/Desktop/Udemy/Web Developer Bootcamp/HTML Bootcamp/intro to CSS 1/css.css",
+		"/C/Users/Miguel/Desktop/Udemy/Web Developer Bootcamp/HTML Bootcamp/intro to CSS 1/index.html",
+		"/C/Users/Miguel/Desktop/Udemy/Web Developer Bootcamp/HTML developer/Demo.html",
+		"/C/Users/Miguel/Desktop/rails",
+		"/C/Users/Miguel/Desktop/Udemy/Web Developer Bootcamp/HTML Basics/Form Demo.html",
+		"/C/Users/Miguel/Desktop/Udemy/Web Developer Bootcamp/HTML Basics/Form exercise.html",
+		"/C/Users/Miguel/Desktop/Udemy/Web Developer Bootcamp/HTML Basics/Pokemon.css",
+		"/C/Users/Miguel/Desktop/Udemy/Web Developer Bootcamp/HTML Basics/Pokemon table exercise.html",
+		"/C/Users/Miguel/Desktop/Udemy/Web Developer Bootcamp/HTML Basics/firstPage.html",
+		"/C/Users/Miguel/Desktop/Udemy/Web Developer Bootcamp/HTML Basics/Rusty Steele.html",
+		"/C/Users/Miguel/Desktop/Udemy/Web Developer Bootcamp/HTML Basics/firstpage.html",
+		"/C/Users/Miguel/Desktop/Udemy/Web Developer Bootcamp/HTML Basics/index.html",
+		"/C/Users/Miguel/recipes/cake-recipe.txt",
+		"/C/Users/Miguel/recipes/chili-recipe.txt",
+		"/C/Users/Miguel/version-control/reflections/lesson_2_reflections.txt",
+		"/C/Users/Miguel/version-control/reflections/lesson_1_reflections.txt",
+		"/C/Users/Miguel/Downloads/bash_profile_course",
+		"/C/Users/Miguel/Downloads/git-completion.bash.txt",
+		"/C/Users/Miguel/Desktop/Portfolio/Version Control/Reflections/lesson_1_reflections.txt",
+		"/C/Users/Miguel/Downloads/game_old.js",
+		"/C/Users/Miguel/Downloads/game_new.js",
+		"/C/Users/Miguel/Downloads/game_old.html",
+		"/C/Users/Miguel/Desktop/Portfolio/FEWD/Project 1/portfolio.html",
+		"/C/Users/Miguel/Desktop/Portfolio/FEWD/Project 1/css/bootstrap.min.css",
+		"/C/Users/Miguel/Downloads/RI-Project-Part-1-Start/Project-Part-1-Start/Gruntfile.js",
+		"/C/Users/Miguel/Downloads/RI-Project-Part-1-Start/Project-Part-1-Start/package.json",
+		"/C/Users/Miguel/Downloads/RI-Project-Part-1-Start/Project-Part-1-Start/css/main.css",
+		"/C/Users/Miguel/Downloads/RI-Project-Part-1-Start/Project-Part-1-Start/index.html",
+		"/C/Users/Miguel/Downloads/RI-Project-Part-1-Start/Project-Part-1-Start/node_modules/grunt/Gruntfile.js",
+		"/C/Users/Miguel/Downloads/RWDF L4 Start/Start/index.html",
+		"/C/Users/Miguel/Downloads/RWDF L4 Start/Start/main.css",
+		"/C/Users/Miguel/Desktop/Portfolio/FEWD/Project 1/js/package.json",
+		"/C/Program Files/ImageMagick-6.9.2-Q16/index.html",
+		"/C/Users/Miguel/Downloads/RWDF L2 Start/Start/main.css",
+		"/C/Users/Miguel/Downloads/RWDF L2 Start/Start/index.html",
+		"/C/Users/Miguel/AppData/Local/Temp/Temp1_RWDF L2 Start.zip/Start/main.css",
+		"/C/Users/Miguel/AppData/Local/Temp/Temp1_RWDF L2 Start.zip/Start/index.html",
+		"/C/Users/Miguel/Desktop/Portfolio/FEWD/Project 1/style.css",
+		"/C/Users/Miguel/Desktop/Portfolio/toplist/index.html.txt",
+		"/C/Users/Miguel/Desktop/Portfolio/toplist/style.css.txt",
+		"/C/Users/Miguel/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 138.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"orange",
+			"header",
+			"education",
+			"work",
+			"header",
+			"name",
+			"img",
+			"major",
+			"skills",
+			"},\n",
+			"col-lg-4 col-md-6",
+			"col-lg-4",
+			"100",
+			"%;\n",
+			"display"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 308.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
