@@ -1,10 +1,53 @@
 body {
 	max-width: 1200px;
+	margin-right: auto;
+	margin-left: auto;
+	background: #707aa6;
+}
+
+.jumbotron {
+	background: linear-gradient(
+		rgba(49, 60, 116, 0.60),
+		rgba(49, 60, 116, 0.60)
+		),
+		url(https://images.unsplash.com/photo-1437419764061-2473afe69fc2?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=76fba3bdb1e04cb26a02000be2fe7740);
+	background-size: cover;
+	height: 400px;
+	margin-bottom: 0px;
+}
+
+.jumbotron h1, h2 {
+	color: #c1c6dc;
 	text-align: center;
+}
+
+#links {
+	text-align: right;
+	margin-top: 100px;
+	margin-right: 20px;
+}
+
+.jumbotron #links a, a:link {
+	color: #c1c6dc;
+	font-size: 20px;
+	text-align: right;
+	margin-right: 10px;
+}
+
+.jumbotron h2 {
+	font-size: 50px;
 }
 
 #project-main {
 	max-width: 100%;
+}
+
+.project-image {
+	text-align: center;
+}
+
+.project-title {
+	text-align: center;
 }
 
 #top-row {
@@ -14,4 +57,19 @@ body {
 
 .project {
 	max-width: calc((100% - 30px) / 3);
+}
+
+img {
+	max-width: 300px;
+	max-height: 300px;
+}
+
+.heading {
+	text-align: center;
+	background-color: #313d74;
+	color: #c1c6dc;
+}
+
+.heading h3 {
+	margin-top: 0px;
 }
