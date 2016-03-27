@@ -1,0 +1,17 @@
+body {
+	max-width: 1200px;
+	text-align: center;
+}
+
+#project-main {
+	max-width: 100%;
+}
+
+#top-row {
+	max-width: 100%;
+	display: flex;
+}
+
+.project {
+	max-width: calc((100% - 30px) / 3);
+}
