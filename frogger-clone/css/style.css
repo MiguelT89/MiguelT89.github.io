@@ -1,0 +1,62 @@
+body {
+	display: flex;
+	flex-wrap: wrap;
+	max-width: 1200px;
+	margin-right: auto;
+	margin-left: auto;
+	font-family: 'Chelsea Market', cursive;
+	background: #219aa2;
+	color: #3f003b;
+}
+
+#title {
+	text-align: center;
+	width: 100%;
+}
+
+#left_side {
+	width: 347.5px;
+	height: 606px;
+	margin-left: 0px;
+}
+
+#right_side {
+	width: 347.5px;
+	height: 606px;
+}
+
+#characters {
+	width: 173.75px;
+	height: 606px;
+}
+
+img {
+	height: 85px;
+	width: 50px;
+}
+
+#selection {
+	font-size: 40px;
+	text-align: right;
+	max-width: 55%;
+}
+
+#high {
+	font-size: 50px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+#current {
+	font-size: 50px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+#selection {
+	flex-wrap: wrap;
+}
+
+canvas {
+	text-align: center;
+}

@@ -2,40 +2,27 @@ body {
 	max-width: 1200px;
 	margin-right: auto;
 	margin-left: auto;
-	background: #707aa6;
+	background: #6c698d;
 }
 
 .jumbotron {
 	background: linear-gradient(
-		rgba(49, 60, 116, 0.60),
-		rgba(49, 60, 116, 0.60)
+		rgba(108, 105, 141, 0.35),
+		rgba(108, 105, 141, 0.35)
 		),
 		url(https://images.unsplash.com/photo-1437419764061-2473afe69fc2?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=76fba3bdb1e04cb26a02000be2fe7740);
 	background-size: cover;
-	height: 400px;
+	height: 275px;
 	margin-bottom: 0px;
 }
 
 .jumbotron h1, h2 {
-	color: #c1c6dc;
+	color: #c5f4e0;
 	text-align: center;
 }
 
-#links {
-	text-align: right;
-	margin-top: 100px;
-	margin-right: 20px;
-}
-
-.jumbotron #links a, a:link {
-	color: #c1c6dc;
-	font-size: 20px;
-	text-align: right;
-	margin-right: 10px;
-}
-
 .jumbotron h2 {
-	font-size: 50px;
+	font-size: 3em;
 }
 
 #project-main {
@@ -66,10 +53,18 @@ img {
 
 .heading {
 	text-align: center;
-	background-color: #313d74;
-	color: #c1c6dc;
+	background-color: #c5f4e0;
+	color: #6c698d;
 }
 
 .heading h3 {
 	margin-top: 0px;
+}
+
+p, .project-title {
+	color: #e6efe9;
+}
+
+.project a:link {
+	color: #e6efe9;	
 }
