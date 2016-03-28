@@ -60,12 +60,12 @@ function reset() {
 	for(var i = 0; i < squares.length; i++) {
 		if(colors[i]) {
 			squares[i].style.display = "block";
-			squares[i].style.background = colors[i]
+			squares[i].style.background = colors[i];
 		} else {
 			squares[i].style.display = "none";
 		}
 	}
-	h1.style.background = "steelblue;";
+	h1.style.background = "steelblue";
 }
 
 resetButton.addEventListener("click", function() {
