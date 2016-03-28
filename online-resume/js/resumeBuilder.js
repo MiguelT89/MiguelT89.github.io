@@ -88,7 +88,7 @@ var education = {
 	"onlineCourses": [{
 		"title": "Front-End Web Developer Nanodegree",
 		"school": "Udacity",
-		"date": "In Present",
+		"date": "In Progress",
 		"url": "https://www.udacity.com"
 	}, {
 		"title": "HTML & CSS",
