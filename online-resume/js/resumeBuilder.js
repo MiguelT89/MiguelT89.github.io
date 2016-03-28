@@ -197,7 +197,7 @@ var projects = {
 			"title": "RGB Color Guessing Game",
 			"dates": "March 2016",
 			"description": "Game designed to improve recognition of RGB colors. JavaScript, HTML, and CSS.",
-			"images": ["images/fry.jpg"]
+			"images": ["images/color-game.png"]
 		}, {
 			"title": "Arcade Game Clone",
 			"dates": "March 2016",
