@@ -65,10 +65,20 @@ img {
 	color: #e6efe9;
 }
 
-.project a:link {
-	color: #e6efe9;	
+a:link {
+	color: #e6efe9;
 }
 
-.project a:visited {
-	 
+a:visited {
+	color: #e6efe9;
+}
+#navcontainer ul{
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	text-align: center;
+}
+#navcontainer ul li{
+	display: inline;
+	margin: 0px 30px;
 }
