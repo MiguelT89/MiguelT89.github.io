@@ -24,7 +24,7 @@ function setupModeButtons() {
 			this.classList.add("selected");
 			this.textContent === "Easy" ? numSquares = 3: numSquares = 6;
 			reset();
-		})
+		});
 	}
 }
 
@@ -44,7 +44,7 @@ function setupSquares() {
 				this.style.background = "#232323";
 				messageDisplay.textContent = "Try Again?";
 			}
-		})
+		});
 	}
 }
 
@@ -81,13 +81,13 @@ function changeColors(color) {
 }
 
 function pickColor() {
-	var random = Math.floor(Math.random() * colors.length)
+	var random = Math.floor(Math.random() * colors.length);
 	return colors[random];
 }
 
 function generateRandomColors(num) {
 	//make an array
-	var arr = []
+	var arr = [];
 	//repeat num times
 	for(var i = 0; i < num; i++) {
 		//get random color and push into arr
